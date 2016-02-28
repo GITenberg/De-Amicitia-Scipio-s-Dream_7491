@@ -1,0 +1,37 @@
+_repo: De-Amicitia-Scipio-s-Dream_7491
+contributor:
+  translator:
+    agent_name: Peabody, Andrew P. (Andrew Preston)
+    aliases:
+    - Peabody, A. P. (Andrew Preston)
+    - Peabody, Andrew Preston
+    birthdate: 1811
+    deathdate: 1893
+    gutenberg_agent_id: '32751'
+    url: http://www.gutenberg.org/2009/agents/32751
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Preston_Peabody
+creator:
+  author:
+    agent_name: Cicero, Marcus Tullius
+    birthdate: -106
+    deathdate: -43
+    gutenberg_agent_id: '128'
+    url: http://www.gutenberg.org/2009/agents/128
+    wikipedia: http://en.wikipedia.org/wiki/Cicero
+description: Cicero De Officiis -- Cicero De Senectute -- Cicero De Amicitia -- Scipio's
+  dream.
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Neoplatonism'
+- !lcsh 'Friendship'
+title: De Amicitia, Scipio's Dream
+url: http://www.gutenberg.org/ebooks/7491
