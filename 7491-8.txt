@@ -11,9 +11,9 @@ Title: De Amicitia, Scipio's Dream
 
 Author: Marcus Tullius Ciceronis
 
-Posting Date: September 25, 2014 [EBook #7491]
 Release Date: February, 2005
-First Posted: May 10, 2003
+First Posted: May 10, 2003 [EBook #7491]
+Last Updated: October 4, 2018
 
 Language: English
 
@@ -316,7 +316,7 @@ The friendship of Laelius and the younger Scipio Africanus well deserves
 the commemoration which it has in this dialogue of Cicero. It began in
 their boyhood, and continued without interruption till Scipio's death.
 Laelius served in Africa, mainly that he might not be separated from his
-friend. To each other's home was as his own. They were of one mind as to
+friend. To each the other's home was as his own. They were of one mind as to
 public men and measures, and in all probability the more pliant nature
 of Laelius yielded in great measure to the stern and uncompromising
 adherence of Scipio to the cause of the aristocracy. While they were
@@ -340,7 +340,7 @@ information even as to the ground which it covered. It seems probable,
 however, that it was a history either of the third of the Punic wars, or
 of all of them; for Plutarch quotes from him--probably from his History
 --the statement that he, Fannius, and Tiberius Gracchus were the first to
-mount the walls of Carthage whent he city was taken.
+mount the walls of Carthage when the city was taken.
 
 SCAEVOLA.
 
@@ -368,7 +368,7 @@ Sulla asked the Senate to declare him by their vote a public enemy,
 Scaevola stood in a minority of one; and when Sulla urged him to give
 his vote in the affirmative, his reply was: "Although you show me the
 military guard with which you have surrounded the Senate-house, although
-you threaten me with death, yon will never induce me, for the little
+you threaten me with death, you will never induce me, for the little
 blood still in an old man's veins, to pronounce Marius--who has been the
 preserver of the city and of Italy--an enemy."
 
@@ -377,8 +377,6 @@ his father-in-law, that, when a candidate for the consulship, he could
 not persuade himself in the presence of Scaevola to cringe to the
 people, or to adopt any of the usual self-humiliating methods of
 canvassing for the popular vote.
-
-
 
 
 
@@ -471,6 +469,8 @@ I have used for Scipio's Dream, Creuzer and Moser's edition of the _De
 Republica_.
 
 
+
+
 CICERO DE AMICITIA
 
 *       *       *       *       *
@@ -515,7 +515,7 @@ on a subject about which almost every one was then talking, and which
 you, Atticus, certainly recollect, as you were much in the society of
 Publius Sulpicius; namely, the intense hatred with which Sulpicius, when
 Tribune of the people, opposed Quintus Pompeius, then Consul, [Footnote:
-The quarrel arose from the zelous espousal of the Marian faction by
+The quarrel arose from the zealous espousal of the Marian faction by
 Sulpicius, who resorted to arms, in order to effect the incorporation of
 the new citizens from without the city among the previously existing
 tribes. Hence a series of tumults and conflicts, in one of which a son
@@ -591,7 +591,7 @@ your own soul, and consider the calamities to which man is liable as of
 no consequence in comparison with virtue. I am therefore asked, and so,
 I believe, is Scaevola, who is now with us, how you bear the death of
 Africanus; and the question is put to us the more eagerly, because on
-the fifth day of the mouth next following, [Footnote: Latin, _proxumis
+the fifth day of the month next following, [Footnote: Latin, _proxumis
 nonis_. The _nones_, the ninth day before the _ides_, fell on the fifth
 of the month, except in March. May, July, and October, when the _ides_
 were two days later. We have elsewhere intimation that the Augurs held
@@ -656,7 +656,7 @@ time in due season as to himself, but almost too late for his
 country,[Footnote: The war in Spain had been continued for several
 years, with frequent disaster and disgrace to the Roman army, when
 Scipio, B.C. 134, was chosen Consul with a special view to this war,
-which he closed by the capture and destruction of Numantia, inconnection
+which he closed by the capture and destruction of Numantia, in connection
 with which, it must be confessed, his record is rather that of a
 relentless and sanguinary enemy than of a generous and placable
 antagonist.] who by the overthrow of two cities implacably hostile to
@@ -729,7 +729,7 @@ immortality. He quotes the passage in which God is represented as
 saying, "I am the God of Abraham, and the God of Isaac, and the God of
 Jacob," and adds, "God is not the God of the dead, but of the living,"
 implying that ancestors whom the writer of that record supposed to be
-dead could not have been thus mentioned.] or thatof the former Greek
+dead could not have been thus mentioned.] or that of the former Greek
 colonists in this country who by their schools and teaching made
 Southern Italy [Footnote: Latin _Magna Graecia_-the name given to the
 cluster of Greek colonies that were scattered thick along the shore of
@@ -848,7 +848,7 @@ contracted and narrowed that the whole power of loving is bestowed on
 the union of two or a very few friends.
 
 6 Friendship is nothing else than entire fellow feeling as to all things
-human and divine with mutual good-will and affection; [1] and I doubt
+human and divine with mutual good-will and affection; (1) and I doubt
 whether anything better than this, wisdom alone excepted, has been given
 to, man by the immortal gods Some prefer riches to it, some, sound
 health, some, power, some, posts of honor, many, even sensual
@@ -865,21 +865,21 @@ the Galli, the Scipios, the Phili Mankind in general [1 It may be
 doubted whether this close conformity of opinion and feeling is
 essential, or even favorable to friendship. The amicable comparison and
 collision of thought and sentiment are certainly consistent with, and
-often conducive to the most friendly intimacy Friends are not
-infrequently the complements, rather than the likeness, of each other
+often conducive to the most friendly intimacy. Friends are not
+infrequently the complements, rather than the likeness, of each other.
 Cicero and Atticus were as close friends as Scipio and Laelius; but they
 were at many points exceedingly unlike. Atticus had the tact and skill
 in worldly matters, which Cicero lacked. Atticus kept aloof from public
 affairs while Cicero was unhappy whenever he could not imagine himself
-as taking a leading part in them. Atticus was an Epicurran, and Cicero
+as taking a leading part in them. Atticus was an Epicurean, and Cicero
 never lost an opportunity of attacking the Epicurean philosophy.] are
 content with these. Let us then leave out of the account such good men
 as are nowhere to be found. Among such good men as there really are,
 friendship has more advantages than I can easily name. In the first,
 place, as Ennius says;--
 
-"How can life be worth living, if devoid Of the calm trust reposed by
-friend in friend? What sweeter joy than in the kindred soul, Whose
+"How can life be worth living, if devoid of the calm trust reposed by
+friend in friend? What sweeter joy than in the kindred soul? Whose
 converse differs not from self-communion?"
 
 How could you have full enjoyment of prosperity, unless with one whose
@@ -982,7 +982,7 @@ day delivered an equally subtile and eloquent discourse maintaining the
 opposite thesis. In the third Book of the _De Republica_ Philus is made
 the "devil's advocate," and has assigned to him the championship of what
 we are wont to call a Machiavelian policy, and, in general, of the
-morally wrong as the politically right. He is represented astaking the
+morally wrong as the politically right. He is represented as taking the
 part reluctantly, saying that one consents to soil his hands in order to
 find gold, and he professes to give the substance of the famous
 discourse of Carneades.  Laelius answers him, and, so far as we can
@@ -1033,7 +1033,7 @@ parents, and which can be dissolved only by atrocious guilt; and in the
 next place, in the springing up of a like feeling of love, when we find
 some one of manners and character congenial with our own, who becomes
 dear to us because we seem to see in him an illustrious example of
-probity and virtue For there is nothing more lovable than virtue,--nothing
+probity and virtue. For there is nothing more lovable than virtue,--nothing
 which more surely wins affectionate regard, insomuch that on the
 score of virtue and probity we love even those whom we have never seen.
 Who is there that does not recall the memory of Caius Fabricius, of
@@ -1046,7 +1046,7 @@ unfriendly remembrance; [Footnote: Pyrrhus, after the only victory that
 he obtained over the Romans, treated his prisoners with signal humanity,
 and restored them without ransom. See _De Officiis_, i. 12] the other
 because of his cruelty our people must always hate. [Footnote: It may be
-doubted wheter Hannibal deserved the reproach here implied. The Roman
+doubted whether Hannibal deserved the reproach here implied. The Roman
 historians ascribe to him acts of cruelty no worse than their own
 generals were chargeable with: while nothing of the kind is related by
 either Polybius, or Plutarch. It is certain that after the battle of
@@ -1080,7 +1080,7 @@ is he for the friendships which he seeks and cherishes. What? Did
 Africanus need me? Not in the least by Hercules. As little did I need
 him. But I was drawn to him by admiration of his virtue while he, in
 turn, loved me, perhaps from some favorable estimate of my character,
-and intimacy incieased our mutual affection. But though utilities many
+and intimacy increased our mutual affection. But though utilities many
 and great resulted from our friendship, the cause of our mutual love did
 not proceed from the hope of what it might bring. For as we are
 beneficent and generous, not in order to exact kindnesses in return (for
@@ -1116,7 +1116,7 @@ SCAEVOLA. I am of the same mind with you. Let us then, hear farther.
 
 10 LAELIUS. Hear then, my excellent friends the substance of the
 frequent discussions on friendship between Scipio and me. He indeed,
-said [footnote: The construction of this entire section is in the
+said [Footnote: The construction of this entire section is in the
 subjective imperfect depending on the _dicebat_ in the second sentence.
 It has seemed to me that the direct form of constiution which I have
 adopted is more consonant with the genius of our language.] that nothing
@@ -1181,7 +1181,7 @@ little evidence of his actual guilt.] have aided them in the endeavor to
 usurp regal power? We saw, indeed, Tiberius Gracchus, when he was
 disturbing the peace of the State, deserted by Quintus Tubero and others
 with whom he had been on terms of intimacy. But Caius Blossius, of
-Cumae, the guest,[Footnote: _Hospes,_ guest, host, or both.] Scaevola,
+Cumae, the guest, [Footnote: _Hospes,_ guest, host, or both.] Scaevola,
 of your family, coming to me, when I was in conference with the Consuls
 Laenas and Rupilius, to implore pardon, urged the plea that he held
 Tiberius Gracchus in so dear esteem that he felt bound to do whatever he
@@ -1532,7 +1532,7 @@ a community of all interests, plans, and purposes without any exception
 even so far that, if perchance there be occasion for furthering the not
 entirely right wishes of friends when life or reputation is at stake,
 one may in their behalf deviate somewhat from a perfectly straight
-course [1] yet not so far as to
+course (1) yet not so far as to
 
 [1 This at first sight appears like a license to yield up moral
 considerations to friendship, though the qualification, in the sequel,
@@ -1574,7 +1574,7 @@ incur absolute dishonor. There is a point up to which a concession made
 to friendship is venial. But we are not bound to be careless of our own
 reputation, nor ought we to regard the esteem of our fellow-citizens as
 an instrument of such affairs as devolve upon us,--an esteem which it is
-base to conciliate [footnote: Latin, _colligere,_ to collect, or gather
+base to conciliate [Footnote: Latin, _colligere,_ to collect, or gather
 up, one by one, the good-will of each individual citizen.] by flattery
 and fawning. Virtue, which has the sincere regard of the people as its
 consequence, is by no means to be sacrificed to friendship.
@@ -1584,7 +1584,7 @@ he often complained that men exercised greater care about all other
 matters; that one could always tell how many goats and sheep he had, but
 could not tell how many friends he had; and that men were careful in
 selecting their beasts, but were negligent in the choice of friends, and
-had nothing like marks and tokens [footnote: Latin, _signa et notas,_
+had nothing like marks and tokens [Footnote: Latin, _signa et notas,_
 the marks and tokens by which the quality and worth of goats and sheep
 were estimated.] by which to determine the fitness of friends.
 
@@ -1628,7 +1628,7 @@ exceedingly rare and almost divine order of men.
 
 Still further good faith is essential to the maintenance of the
 stability and constancy which we demand in friendship, for nothing that
-is unfaithful is stable. It is, moreover, fitting to choose tor a friend
+is unfaithful is stable. It is, moreover, fitting to choose for a friend
 one who is frank, affable, accommodating, interested in the same things
 with ourselves,--all which qualities come under the head of fidelity,
 for a changeful and wily disposition cannot be faithful, nor can he who
@@ -1722,7 +1722,7 @@ unbecoming for him who conferred them to recount.
 
 Those who are superior ought, undoubtedly, not only to waive all
 pretension in friendly intercourse, but to do what they can to raise
-their humbler friends to their own level.[l] There are some who give
+their humbler friends to their own level.(l) There are some who give
 their friends trouble by imagining that they are held in low esteem,
 which, however, is not apt to be the case except with those who think
 meanly of themselves. Those who feel thus ought to be raised to a just
@@ -1732,7 +1732,7 @@ then by the capacity of him whom you would favor and help. For, however
 great your influence may be, you cannot raise all your friends to the
 highest positions. Thus Scipio could effect the election of Publius
 Rupilius to the consulship; but he could not do the same for his brother
-Lucius.[2] In general, friendships that are properly so called are
+Lucius.(2) In general, friendships that are properly so called are
 formed between persons of mature years and established character; nor if
 young men have been fond of hunting or of ball-playing, is there any
 need of permanent attachment to those whom they then liked as associates
@@ -1760,7 +1760,7 @@ suffered to interfere, as it does too often, with important services
 that a friend can render. To resort again to fable, Neoptolemus could
 not have taken Troy [Footnote: Or rather, could not have borne the
 indispensable part which it was predicted that he should bear in the
-taking of Troy.]if he had chosen to comply with the wishes of Lycomedes,
+taking of Troy.] if he had chosen to comply with the wishes of Lycomedes,
 who brought him up, and who with many tears attempted to dissuade him
 from his expedition. Equally in actual life there are not infrequently
 important occasions on which the society of friends must be for a time
@@ -1844,7 +1844,7 @@ equitable and just, and each will take upon himself any labor or burden
 in the other's stead, while neither will ever ask of the other aught
 that is not honorable and right. Nor will they merely cherish and love,
 they will even reverence each other. But he who bereaves friendship of
-mutual respect [1] takes from it its greatest ornament. Therefore those
+mutual respect (1) takes from it its greatest ornament. Therefore those
 are in fatal error who think that in friendship there is free license
 for all lusts and evil practices. Friendship is given by nature, not as
 a companion of the vices, but as a helper of the virtues, that, as
@@ -1925,7 +1925,7 @@ from their seniors in age as having come from Archytas of Tarentum--"If
 one had ascended to heaven and had obtained a full view of the nature of
 the universe and the beauty of the stars, yet his admiration would be
 without delight, if there were no one to whom he could tell what he had
-seen" Thus Nature has no love for solitude, and always leans as it were,
+seen." Thus Nature has no love for solitude, and always leans as it were,
 on some support, and the sweetest support is found in the most intimate
 friendship.
 
@@ -1987,7 +1987,7 @@ account, inasmuch as it renders the discernment of the truth which it
 defaces impossible, it is most of all inimical to friendship; for it is
 fatal to sincerity, without which the name of friendship ceases to have
 any meaning. For since the essence of friendship consists in this, that
-one mind is, as it were, made out of seveial, how can this be, if in one
+one mind is, as it were, made out of several, how can this be, if in one
 of the several there shall be not always one and the same mind, but a
 mind varying, changeful, manifold? And what can be so flexible, so far
 out of its rightful course, as the mind of him who adapts himself, not
@@ -2532,7 +2532,7 @@ He departed; I awoke from sleep.
 
 
 
-End of the Project Gutenberg EBook of De Amicitia, Scipio's Dream, by 
+End of the Project Gutenberg EBook of De Amicitia, Scipio's Dream, by
 Marcus Tullius Ciceronis
 
 *** END OF THIS PROJECT GUTENBERG EBOOK DE AMICITIA, SCIPIO'S DREAM ***
